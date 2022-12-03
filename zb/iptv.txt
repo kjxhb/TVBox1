@@ -5,7 +5,7 @@
 
 //江西
 央视频道V6,#genre#
-CCTV1高清,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
+CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225618/2/index.m3u8
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225642/2/index.m3u8
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225762/2/index.m3u8
@@ -401,7 +401,7 @@ GTV+,http://[2409:8087:6a01:1010::32]/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 
 //爱尚
 央视高清V4,#genre#
-CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd 
+CCTV1高清,http://live.cooltv.top/tv/aishang.php?id=cctv1hd 
 CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd 
 CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3hd 
 CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4hd 
