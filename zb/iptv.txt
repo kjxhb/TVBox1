@@ -1,5 +1,5 @@
-//国内加速地址：https://jsd.cdn.zzko.cn/gh/kjrzxu/TVBox@main/zb/iptv.txt
-//base64加密：aHR0cHM6Ly9qc2QuY2RuLnp6a28uY24vZ2gva2pyenh1L1RWQm94QG1haW4vemIvaXB0di50eHQ=
+//国内加速地址：https://jsd.cdn.zzko.cn/gh/kjrzxu/TVBox/zb/iptv.txt
+//base64加密：aHR0cHM6Ly9qc2QuY2RuLnp6a28uY24vZ2gva2pyenh1L1RWQm94L3piL2lwdHYudHh0
 
 //江西
 央视频道V6,#genre#
