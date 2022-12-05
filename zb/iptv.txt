@@ -1,7 +1,7 @@
-//国内加速地址：https://jsd.cdn.zzko.cn/gh/kjrzxu/TVBox/zb/iptv.txt
 //香港加速地址：https://raw.iqiq.io/kjrzxu/TVBox/main/zb/iptv.txt
-//国内base64加密：aHR0cHM6Ly9qc2QuY2RuLnp6a28uY24vZ2gva2pyenh1L1RWQm94L3piL2lwdHYudHh0
+//国内加速地址：https://jsd.cdn.zzko.cn/gh/kjrzxu/TVBox/zb/iptv.txt
 //香港加速base64加密：aHR0cHM6Ly9yYXcuaXFpcS5pby9ranJ6eHUvVFZCb3gvbWFpbi96Yi9pcHR2LnR4dA==
+//国内base64加密：aHR0cHM6Ly9qc2QuY2RuLnp6a28uY24vZ2gva2pyenh1L1RWQm94L3piL2lwdHYudHh0
 
 
 央视频道V4,#genre#
@@ -118,9 +118,9 @@ CCTV16,http://192.168.1.1:8888/rtp/239.11.0.67:5140?ChannelFECPort=5142
 CCTV16,http://192.168.1.1:8888/rtp/239.10.0.187:5140?ChannelFECPort=5142
 CCTV17,http://192.168.1.1:8888/rtp/239.11.0.107:5140?ChannelFECPort=5142
 CETV1,http://192.168.1.1:8888/rtp/239.11.0.139:5140?ChannelFECPort=5142
-CETV2 576,http://192.168.1.1:8888/rtp/239.11.0.246:5140?ChannelFECPort=5142
-CETV3 576,http://192.168.1.1:8888/rtp/239.11.0.247:5140?ChannelFECPort=5142
-CETV4 576,http://192.168.1.1:8888/rtp/239.11.0.248:5140?ChannelFECPort=5142
+CETV2,http://192.168.1.1:8888/rtp/239.11.0.246:5140?ChannelFECPort=5142
+CETV3,http://192.168.1.1:8888/rtp/239.11.0.247:5140?ChannelFECPort=5142
+CETV4,http://192.168.1.1:8888/rtp/239.11.0.248:5140?ChannelFECPort=5142
 CGTN,http://192.168.1.1:8888/rtp/239.11.0.245:5140?ChannelFECPort=5142
 CGTV,http://192.168.1.1:8888/rtp/239.11.0.138:5140?ChannelFECPort=5142
 
