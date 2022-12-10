@@ -1,7 +1,7 @@
 # TVBox
 
 ## 介绍
-- tvbox配置地址：`https://raw.iqiq.io/kjrzxu/TVBox/main/tvbox.json`
+- tvbox配置地址：```https://raw.iqiq.io/kjrzxu/TVBox/main/tvbox.json```
 - TVBox仓库：[takagen99/Box](https://github.com/takagen99/Box)、[q215613905/TVBoxOS](https://github.com/q215613905/TVBoxOS)
 
 ## 编译：
