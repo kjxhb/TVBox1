@@ -13,8 +13,8 @@
 国内加速地址：```https://gitee.com/xhb1011/tvbox/raw/master/zb/tvbox.txt```
 
 国内base64加密：```aHR0cHM6Ly9naXRlZS5jb20veGhiMTAxMS90dmJveC9yYXcvbWFzdGVyL3piL3R2Ym94LnR4dA==```
-`
+```
 https://raw.kgithub.com/kjrzxu/tvbox/main/zb/iptv.txt
 https://fastly.jsdelivr.net/gh/kjrzxu/tvbox@main/zb/iptv.txt
 https://cdn.staticaly.com/gh/kjrzxu/tvbox/main/zb/iptv.txt
-`
+```
