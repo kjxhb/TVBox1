@@ -1,4 +1,4 @@
-#加速配置地址
+## 加速配置地址
 ```
 香港加速（无缓存）：https://raw.iqiq.io/kjrzxu/TVBox/main/zb/iptv.txt
 香港加速base64加密：aHR0cHM6Ly9yYXcuaXFpcS5pby9ranJ6eHUvVFZCb3gvbWFpbi96Yi9pcHR2LnR4dA==
