@@ -11,7 +11,7 @@
 日本加速（有缓存）：https://cdn.staticaly.com/gh/kjrzxu/tvbox/main/tvbox.json
 日本加速（有缓存）：https://fastly.jsdelivr.net/gh/kjrzxu/TVBox@main/tvbox.json
 国内加速（有缓存）：https://jsd.cdn.zzko.cn/gh/kjrzxu/TVBox@main/tvbox.json
-国内加速：https://gitee.com/xhb1011/TVBox/raw/main/tvbox.json
+gitee码云：https://gitee.com/xhb1011/TVBox/raw/main/tvbox.json
 本地配置地址：clan://localhost/TVBox/tvbox.json
 数据文件夹：clan://TVBox/MaooXB/
 本地iptv接口：clan://TVBox/iptv.txt
