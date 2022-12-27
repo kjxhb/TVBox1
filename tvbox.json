@@ -1,17 +1,11 @@
 {
-//网络地址 https://raw.iqiq.io/kjrzxu/TVBox/main/tvbox.json
-//网络地址 https://raw.fastgit.org/kjrzxu/tvbox/main/tvbox.json
-//配置地址 clan://localhost/TVBox/tvbox.json
-//数据接口 clan://TVBox/MaooXB/
-//iptv接口  clan://TVBox/iptv.txt
-
 //资源包
-"spider":"https://raw.fastgit.org/kjrzxu/TVBox/main/jar/tvbox.jar;md5;3BBE25C7A4BC9DD927D24258686517E1",
+"spider":"https://raw.iqiq.io/kjrzxu/TVBox/main/jar/tvbox.jar;md5;3BBE25C7A4BC9DD927D24258686517E1",
 //壁纸接口
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 //"wallpaper":"https://tool.weetai.cn/api",
 //电视直播，txt=后为base64加密
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcva2pyenh1L3R2Ym94L21haW4vemIvaXB0di50eHQ="]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9ranJ6eHUvVFZCb3gvbWFpbi96Yi9pcHR2LnR4dA=="]}]}],
 
 "sites": [
 {"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
