@@ -12,4 +12,7 @@ gitee地址：https://gitee.com/xhb1011/tvbox/raw/master/zb/tvbox.txt
 base64加密：aHR0cHM6Ly9naXRlZS5jb20veGhiMTAxMS90dmJveC9yYXcvbWFzdGVyL3piL3R2Ym94LnR4dA==
 其他加速：https://fastly.jsdelivr.net/gh/kjrzxu/tvbox@main/zb/iptv.txt
 其他加速：https://cdn.staticaly.com/gh/kjrzxu/tvbox/main/zb/iptv.txt
+本地iptv接口：clan://TVBox/iptv.txt
+base64加密：Y2xhbjovL1RWQm94L2lwdHYudHh0
+
 ```
