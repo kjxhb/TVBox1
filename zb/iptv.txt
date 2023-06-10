@@ -120,7 +120,7 @@ UTV第一剧场 576,http://iptv.kjrzxhb.top/rtp/239.11.0.189:5140
 成铁电视 1080,http://iptv.kjrzxhb.top/rtp/239.11.0.191:5140
 咪咕 1080,http://iptv.kjrzxhb.top/rtp/239.11.0.234:5140
 
-央视频道V4,#genre#
+IPV4直播,#genre#
 //江西域名
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8
@@ -240,8 +240,6 @@ CETV4,http://192.168.1.1:8888/rtp/239.11.0.248:5140?ChannelFECPort=5142
 CGTN,http://192.168.1.1:8888/rtp/239.11.0.245:5140?ChannelFECPort=5142
 CGTV,http://192.168.1.1:8888/rtp/239.11.0.138:5140?ChannelFECPort=5142
 
-
-卫视频道V4,#genre#
 //江西域名
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 安徽卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225691/index.m3u8
@@ -355,7 +353,6 @@ CHC家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
 辽宁卫视,http://192.168.1.1:8888/rtp/239.11.0.118:5140?ChannelFECPort=5142
 天津卫视,http://192.168.1.1:8888/rtp/239.11.0.123:5140?ChannelFECPort=5142
 
-其他频道V4,#genre#
 //江西域名
 广西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225731/index.m3u8
 海南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225722/index.m3u8
