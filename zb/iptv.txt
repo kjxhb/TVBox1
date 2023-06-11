@@ -1,4 +1,4 @@
-四川移动组播,#genre#
+四川移动,#genre#
 爱上4K 2160,http://iptv.kjrzxhb.top/rtp/239.11.0.120:5140
 CCTV1 1080,http://iptv.kjrzxhb.top/rtp/239.11.0.65:5140
 CCTV2 1080,http://iptv.kjrzxhb.top/rtp/239.11.0.108:5140
