@@ -5,7 +5,7 @@
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 //"wallpaper":"https://tool.weetai.cn/api",
 //电视直播，txt=后为base64加密
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2tqcnp4dS9UVkJveC9tYWluL3piL2lwdHYudHh0"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=https://ghproxy.com/https://raw.githubusercontent.com/kjrzxu/TVBox/main/zb/iptv.txt"]}]}],
 
 "sites": [
 {"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
