@@ -6,7 +6,7 @@
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 //"wallpaper":"https://tool.weetai.cn/api",
 //电视直播，txt=后为base64加密
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=https://ghproxy.com/https://raw.githubusercontent.com/kjrzxu/TVBox/main/zb/iptv.txt"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=./zb/iptv.txt"]}]}],
 
 "sites": [
     {"key":"csp_WoGG","name":"玩偶哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://23.251.37.83:7788/"},
