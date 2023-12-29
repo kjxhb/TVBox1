@@ -1,4 +1,4 @@
-﻿IPV4直播,#genre#
+IPV4直播,#genre#
 //黑龙江牡丹江
 CCTV1,http://39.134.67.108/PLTV/88888888/224/3221225734/1.m3u8
 CCTV1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
@@ -607,7 +607,7 @@ ABTV2标清,http://192.168.1.1:8888/udp/239.10.0.51:5140
 绵阳新闻综合HD,http://192.168.1.1:8888/udp/239.10.0.96:5140
 绵阳科教生活HD,http://192.168.1.1:8888/udp/239.10.0.98:5140
 //域名版
-央视频道,#genre#
+//央视频道
 CCTV1,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.65:5140
 CCTV2,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.108:5140
 CCTV3,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.101:5140
@@ -633,7 +633,7 @@ CETV3,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.247:5140
 CETV4,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.248:5140
 CGTN,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.245:5140
 CGTV,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.138:5140
-地方频道,#genre#
+//地方频道
 真4K,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.122:5140
 爱上4K,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.120:5140
 北京卫视,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.121:5140
@@ -659,7 +659,7 @@ CGTV,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.138:5140
 安徽卫视,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.117:5140
 辽宁卫视,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.118:5140
 天津卫视,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.123:5140
-其他频道,#genre#
+//其他频道
 山西卫视,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.32:5140
 云南卫视,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.52:5140
 西藏卫视,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.53:5140
@@ -716,7 +716,7 @@ UTV优视教育,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.187:5140
 UTV炫酷动漫,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.186:5140
 UTV时尚音乐,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.188:5140
 UTV第一剧场,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.189:5140
-地市频道,#genre#
+//地市频道
 CDTV1HD,http://ipv6.kjrzxhb.top:8888/udp/239.10.0.11:5140
 CDTV2HD,http://ipv6.kjrzxhb.top:8888/udp/239.10.0.12:5140
 CDTV3HD,http://ipv6.kjrzxhb.top:8888/udp/239.10.0.13:5140
