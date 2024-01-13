@@ -320,7 +320,7 @@
     {"key":"csp_xp_酷奇mv","name":"📺酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/酷奇MV.json"},
     {"key":"csp_QB_17kan","name":"⚽17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/17看球.json"},
     {"key":"csp_xp_球迷直播","name":"🏀dj看球","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/dj看球.json"}
-]，
+],
 //解析接口
 "parses":[
     {"name":"Web聚合","type":3,"url":"Web"},
