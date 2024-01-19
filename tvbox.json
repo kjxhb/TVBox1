@@ -23,7 +23,7 @@
     {"key":"csp_YQKAPP","name":"一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
     {"key":"csp_CZSPP","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy66.com/"},
     {"key":"迪迪","name":"迪迪","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
-    {"key":"率率","name":"率率"，"type":3,"api":"csp_AppYsV2","playerType":1,"searchable": 1, "quickSearch": 1, "changeable":1, "ext":"http://caiji.ghlyys.com/yumi/api.php/app/"},
+    //{"key":"率率","name":"率率"，"type":3,"api":"csp_AppYsV2","playerType":1,"searchable": 1, "quickSearch": 1, "changeable":1, "ext":"http://caiji.ghlyys.com/yumi/api.php/app/"},
     {"key":"探探","name":"探探","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn"},
     {"key":"陌陌","name":"陌陌","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.kuin.one/api.php/app/"},
     {"key":"奇奇","name":"奇奇","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://mp4.ghlyys.com/api.php/app"},
