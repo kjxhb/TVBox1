@@ -17,7 +17,7 @@
     {"name":"饭太硬•综合","type":0,"url":"https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 "sites": [
-    {"key": "PanSearch"，"name": "盘Se┃搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"}，
+    {"key": "PanSearch","name": "盘Se┃搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"}，
     {"key":"csp_WoGG","name":"玩偶哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://23.251.37.83:7788/"},
     {"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_AppMr","name":"明明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
