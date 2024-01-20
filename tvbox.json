@@ -22,7 +22,7 @@
     {"key":"七夜","name":"😾七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
     {"key":"csp_Gitcafe","name":"📜小纸条(云盘)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
     {"key": "csp_Yiso","name": "🔍易搜(仅搜索)","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
-    {"key":"csp_Upyunso","name":"☁️Up云搜(仅搜索)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"}，
+    {"key":"csp_Upyunso","name":"☁️Up云搜(仅搜索)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
     {"key": "csp_AliPS","name": "💿云盘搜(仅搜索)","type": 3,"api":" csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
     {"key": "csp_FindZY","name": "💡找资源(仅搜索)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
     {"key":"csp_WoGG","name":"玩偶哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://23.251.37.83:7788/"},
