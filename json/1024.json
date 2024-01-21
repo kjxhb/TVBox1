@@ -1,9 +1,8 @@
 {
- "spider":"../jar/1024.jar;md5;0555de475e5d35fba55d58abb5c4568e",
+ "spider":"https://raw.githubusercontent.com/kjrzxu/TVBox/main/jar/1024.jar;md5;0555de475e5d35fba55d58abb5c4568e",
  "wallpaper":"http://www.kf666888.cn/api/tvbox/img"
  "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzEzODAwMTM4MDAwMC9NSFFUVi9yYXcvYnJhbmNoL21hc3Rlci9UVi8wOTAzemgudHh0"]}]}],
-     
-     
+
   "sites": [
     {
       "key": "AList",
