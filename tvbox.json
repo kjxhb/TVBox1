@@ -6,7 +6,7 @@
 //壁纸接口
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 //"wallpaper":"https://tool.weetai.cn/api",
-//电视直播，txt=后为base64加密
+//电视直播,txt=后为base64加密
 //"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=https://github.moeyy.xyz/https://raw.githubusercontent.com/kjrzxu/TVBox/main/zb/iptv.txt"]}]}],
 "lives": [
     {"name":"IPTV","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/kjrzxu/TVBox/main/zb/iptv.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
