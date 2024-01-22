@@ -1,57 +1,6 @@
 {
   "sites": [
     {
-      "key": "AList",
-      "name": "PY版本AList",
-      "type": 3,
-      "api": "py_AList",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/138001380000/MHQTV/raw/commit/3447d5d757a0328f9ab5e73e8a6ae0a2b41e4284/py/py_alistcr.py"
-    },
-   {
-      "key": "哔哩",
-      "name": "哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
-    },
-    {
-      "key": "泥巴",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_Nbys",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "快播",
-      "name": "快播",
-      "type": 1,
-      "api": "https://www.kuaibozy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": [
-        "动漫",
-        "国产剧",
-        "日韩剧",
-        "港台剧",
-        "欧美剧",
-        "泰剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片",
-        "综艺"
-      ]
-    },
-    {
       "key": "百度",
       "name": "百度",
       "type": 1,
@@ -97,23 +46,6 @@
       "api": "csp_Ysj",
       "searchable": 1,
       "filterable": 1
-    },
-    {
-      "key": "紙條",
-      "name": "紙條",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "ext": "3865f0ab8f124688ad786a262af9b940"
-    },
-    {
-      "key": "易搜",
-      "name": "易搜",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "filterable": 0,
-      "ext": "3865f0ab8f124688ad786a262af9b940"
     },
     {
       "key": "盤搜",
