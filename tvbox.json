@@ -1,9 +1,9 @@
 {
     //资源包
-    "spider":"./jar/tvbox.jar;md5;3BBE25C7A4BC9DD927D24258686517E1",
+    //"spider":"./jar/tvbox.jar;md5;3BBE25C7A4BC9DD927D24258686517E1",
     //"spider":"./jar/tvbox.txt;md5;a4bf71ea71185b7815d3e94d591a7c51",
     //"spider":"./jar/fan.jar;md5;5AEE1FF968A3DC5CBBF225399E9441E9",
-    //"spider":"./jar/fan2.jar",
+    "spider":"./jar/fan2.jar",
     //壁纸接口
     "wallpaper":"https://picsum.photos/1280/720/?blur=10",
     //"wallpaper":"https://tool.weetai.cn/api",
