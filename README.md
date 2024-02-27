@@ -3,6 +3,8 @@
 ## 介绍
 - tvbox配置地址：
 ```
+无缓存：https://raw.gitmirror.com/kjrzxu/TVBox1/main/tvbox.json
+
 香港加速（无缓存）：https://raw.iqiq.io/kjrzxu/TVBox/main/tvbox.json
 新加坡加速（无缓存）：https://raw.kgithub.com/kjrzxu/tvbox/main/kgithub.json
 日本加速（无缓存）：https://raw.fastgit.org/kjrzxu/tvbox/main/tvbox.json
