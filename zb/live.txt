@@ -814,3 +814,14 @@ ABTV2标清,http://ipv6.kjrzxhb.top:8888/udp/239.10.0.51:5140
 自贡文化生活HD,http://ipv6.kjrzxhb.top:8888/udp/239.10.0.84:5140
 绵阳新闻综合HD,http://ipv6.kjrzxhb.top:8888/udp/239.10.0.96:5140
 绵阳科教生活HD,http://ipv6.kjrzxhb.top:8888/udp/239.10.0.98:5140
+
+
+top-四川,#genre#
+//央视频道
+CCTV1,http://kjrzxhb.top:8888/rtp/239.11.0.65:5140
+CCTV2,http://kjrzxhb.top:8888/rtp/239.11.0.108:5140
+CCTV3,http://kjrzxhb.top:8888/rtp/239.11.0.101:5140
+CCTV4,http://kjrzxhb.top:8888/rtp/239.11.0.109:5140
+CCTV5,http://kjrzxhb.top:8888/rtp/239.11.0.100:5140
+CCTV5+,http://kjrzxhb.top:8888/rtp/239.11.0.241:5140
+CCTV6,http://kjrzxhb.top:8888/rtp/239.11.0.102:5140
