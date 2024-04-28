@@ -816,7 +816,7 @@ ABTV2标清,http://ipv6.kjrzxhb.top:8888/udp/239.10.0.51:5140
 绵阳科教生活HD,http://ipv6.kjrzxhb.top:8888/udp/239.10.0.98:5140
 
 
-iptv-四川,#genre#
+live-四川,#genre#
 //央视频道
 CCTV1,http://live.kjrzxhb.top/udp/239.11.0.65:5140
 CCTV2,http://live.kjrzxhb.top/udp/239.11.0.108:5140
