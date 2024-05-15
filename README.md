@@ -10,6 +10,7 @@ https://raw.githubusercontent.com/kjrzxu/TVBox/main/tvbox.json
 代理地址：
 ```
 https://raw.kjrzxhb.top/kjrzxu/TVBox/main/tvbox.json
+https://raw.kjrzxhb.top/kjrzxu/TVBox/main/iptv/iptv.txt
 ```
 gitee码云：
 ```
